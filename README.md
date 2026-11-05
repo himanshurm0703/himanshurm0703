@@ -107,7 +107,7 @@ An end-to-end SQL analytics project focused on Netflix content, viewership, prod
 
 ---
 
-## 🇧🇷 Brazilian E-Commerce Analysis
+## Brazilian E-Commerce Analysis
 
 ### End-to-End Data Engineering & Business Intelligence Project
 
